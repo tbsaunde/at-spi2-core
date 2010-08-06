@@ -13,5 +13,9 @@
     <arg direction="out" type="s"/>
   </method>
 
+  <method name="GetApplicationBusAddress">
+    <arg direction="out" type="s"/>
+  </method>
+
 </interface>
 </node>
